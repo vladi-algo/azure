@@ -1,0 +1,6 @@
+TODO
+1. Multi-threding to create higher througput 
+2. Support multiple enties/events: login, click, impression etc.. 
+3. Add simple data consumer
+4. Add stream analytics
+5. 
