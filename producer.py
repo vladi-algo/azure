@@ -6,6 +6,7 @@ from azure.eventhub.exceptions import EventHubError
 from datafaker import LoginData
 import json
 
+#set up as an env. var:
 CONNECTION_STR = os.environ['EVENT_HUB_CONN_STR']
 EVENTHUB_NAME = os.environ['EVENT_HUB_NAME']
 
